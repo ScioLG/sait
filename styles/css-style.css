@@ -1,0 +1,9 @@
+body {
+    background-image:url(../image/css-background.png);
+}
+td {
+    color: rgb(72, 220, 240);
+}
+img {
+    background-color: rgba(0, 128, 0, 0);
+}
