@@ -7,3 +7,17 @@ td {
 img {
     background-color: rgba(0, 128, 0, 0);
 }
+td {
+    border-color: black;
+    border-width: 1mm;
+}
+a {
+    color:rgb(72, 220, 240);
+    
+}
+.url {
+    margin-left: 150px;
+}
+.g {
+    margin-left: 10px;
+}
